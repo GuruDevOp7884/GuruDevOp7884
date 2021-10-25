@@ -21,12 +21,10 @@
   <a href = "mailto:gugaalves92@hotmail.com"><img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href = "https://www.linkedin.com/in/gustavo-oliveira-310bb41b7/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
+ 
   
   
-  
-  
-  
-  <div>
+<div>
   <br/>
   <p align="center">
     Number of visits: <br> <img src="https://profile-counter.glitch.me/GuruDevOp7884/count.svg" alt="Number of visits">
