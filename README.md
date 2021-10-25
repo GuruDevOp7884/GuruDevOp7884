@@ -1,16 +1,38 @@
-### Hi there 👋
+# Hi There, I'm Gustavo Alves 👋
 
-<!--
-**GuruDevOp7884/GuruDevOp7884** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working as a Industrial Electrician but trying to work as a developer
+- 🌱 I’m learning about Java Script, HTML5 and CSS3 
+- 😄 I love programing and learning
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+
+  
+  ##
+
+<!---Contact badges: https://dev.to/envoy_/150-badges-for-github-pnk--->
+<div>
+
+  <a href = "mailto:gugaalves92@hotmail.com"><img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/gustavo-oliveira-310bb41b7/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
+</div>
+  
+  
+  
+  
+  
+  <div>
+  <br/>
+  <p align="center">
+    Number of visits: <br> <img src="https://profile-counter.glitch.me/GuruDevOp7884/count.svg" alt="Number of visits">
+  </p>
+</div>
+
+
+
+
