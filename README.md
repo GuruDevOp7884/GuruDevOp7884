@@ -1,7 +1,7 @@
 # Hi, I'm Gustavo Alves 👋
 
 - 🔭 I’m currently working as a Industrial Electrician but trying to work as a developer
-- 🌱 I’m learning about Java Script, HTML5 and CSS3 
+- 🌱 I’m learning about Java Script, HTML5, CSS3 and Python
 - 😄 I love programing and learning
 
 
