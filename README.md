@@ -1,7 +1,11 @@
 # Hi, I'm Gustavo Alves 👋
 
-- 🔭 I’m currently working as a Industrial Electrician but trying to work as a developer
-- 🌱 I’m learning about Java Script, HTML5, CSS3 and Python
+About me
+      I've recently started to learn how to program, i've always liked programing since i was a kid but i didn't know where to start, so i started a graduation in Analysis and systems development in - Pontifícia universidade católica de Minas Gerais - PUC
+
+- 🔭 I’m currently unemployed
+- 🌱 Learning and searching about web development
+- 🧐 I'm looking for a internship in software development
 - 😄 I love programing and learning
 
 
