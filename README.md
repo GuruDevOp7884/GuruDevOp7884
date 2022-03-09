@@ -1,6 +1,7 @@
 # Hi, I'm Gustavo Alves 👋
 
-About me
+#About me
+
       I've recently started to learn how to program, i've always liked programing since i was a kid but i didn't know where to start, so i started a graduation in Analysis and systems development in - Pontifícia universidade católica de Minas Gerais - PUC
 
 - 🔭 I’m currently unemployed
