@@ -8,7 +8,7 @@
 - 🌱 Learning and searching about web development
 - 🧐 I'm looking for a internship in software development
 - 😄 I love programing and learning
-- 🌱 Currently learning React
+
 
 
 
