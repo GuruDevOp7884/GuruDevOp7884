@@ -1,10 +1,10 @@
-# Hi, I'm <span style="color:blue;">Gustavo Alves</span> 👋
+# Hi, I'm Gustavo Alves 👋
 
 # About me
    
    Passionate about software development, majoring in Systems Analysis and Development, I am always open to new challenges. I find it easy to work in a team and develop good interpersonal relationships, I work with planning, focus and collaborative sense.
 
-Basic proficiency with C#, .NET, ASPNET Core MVC, SQL, HTML, CSS and JavaScript always willing to study new technologies and increase my field of knowledge.
+Basic proficiency with <b> C#, .NET, ASPNET Core MVC, SQL, HTML, CSS and JavaScript </b> always willing to study new technologies and increase my field of knowledge.
 
 - 🔭 I’m currently working as a intern on web development
 - 🌱 Always learning something new
