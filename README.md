@@ -1,4 +1,4 @@
-# Hi, I'm Gustavo Alves 👋
+# Hi, I'm <span style="color:blue">Gustavo Alves</span> 👋
 
 # About me
    
