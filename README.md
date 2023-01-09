@@ -33,10 +33,10 @@ Basic proficiency with <b> C#, .NET, ASPNET Core MVC, SQL, HTML, CSS and JavaScr
    <p>  How to reach me </p>
    
 
-  <a href = "mailto:gugaalves92@hotmail.com"><img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<abbr title="gugaalves92@hotmail.com">  <a href = "mailto:gugaalves92@hotmail.com"><img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> </abbr>
   <a href = "https://www.linkedin.com/in/gustavo-oliveira-310bb41b7/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
- 
+ <abbr title=""></abbr>
   
   
 <div>
