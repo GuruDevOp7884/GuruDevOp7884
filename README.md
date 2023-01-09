@@ -2,12 +2,13 @@
 
 # About me
    
-   I've recently started to learn how to program, i've always liked programing since i was a kid but i didn't know where to start, so i started a graduation in Analysis and systems development in - Pontifícia universidade católica de Minas Gerais - PUC
+   Passionate about software development, majoring in Systems Analysis and Development, I am always open to new challenges. I find it easy to work in a team and develop good interpersonal relationships, I work with planning, focus and collaborative sense.
 
-- 🔭 I’m currently unemployed
-- 🌱 Learning and searching about web development
-- 🧐 I'm looking for a internship in software development
-- 😄 I love programing and learning
+Basic proficiency with C#, .NET, ASPNET Core MVC, SQL, HTML, CSS and JavaScript always willing to study new technologies and increase my field of knowledge.
+
+- 🔭 I’m currently working as a intern on web development
+- 🌱 Always learning something new
+- 😄 I love programing
 
 
 
