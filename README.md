@@ -29,7 +29,7 @@ Basic proficiency with <b> C#, .NET, ASPNET Core MVC, SQL, HTML, CSS and JavaScr
 
 <!---Contact badges: https://dev.to/envoy_/150-badges-for-github-pnk--->
 <div>
-    # How to reach me
+   <p>  How to reach me </p>
    
 
   <a href = "mailto:gugaalves92@hotmail.com"><img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
