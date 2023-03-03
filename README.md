@@ -30,11 +30,7 @@
 
 ![Gustavo's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=GuruDevOp7884&theme=radical)
 
-<div><br/>
-  <p>
-      Número de visitas: <br> <img src="https://profile-counter.glitch.me/GuruDevOp7884/count.svg" alt="Número de visitas">
-  </p>
-</div>
+
 
 
 
