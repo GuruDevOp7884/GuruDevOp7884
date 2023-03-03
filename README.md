@@ -16,6 +16,7 @@
    <img align="center" alt="stats1" height="220" src="https://github-readme-stats.vercel.app/api?username=GuruDevOp7884&show_icons=true&theme=radical" />
    <img align="center" alt="stats2" height="220" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuruDevOp7884&theme=radical" />
 </div><br/>
+
 ## Tecnologias que eu uso no meu dia
 <div>      
    <img align="center" alt="Csharp" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
