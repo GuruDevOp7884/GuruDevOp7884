@@ -11,7 +11,8 @@
 </div>
 <br/>
 
-![Gustavo's GitHub stats](https://github-readme-stats.vercel.app/api?username=GuruDevOp7884&show_icons=true&theme=radical)
+![Gustavo's GitHub stats](https://github-readme-stats.vercel.app/api?username=GuruDevOp7884&show_icons=true&theme=radical) 
+![Gustavo's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=GuruDevOp7884&theme=radical) 
 
 ## Tecnologias que eu uso no meu dia
 <div>      
