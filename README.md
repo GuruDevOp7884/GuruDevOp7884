@@ -10,6 +10,7 @@ Proficiency with <b> C#, .NET, ASPNET Core MVC, SQL, HTML, CSS and JavaScript </
 - 😄 I’m interested in programming
 
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GuruDevOp7884&show_icons=true&theme=radical)
 
 ##
 
