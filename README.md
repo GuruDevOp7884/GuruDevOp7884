@@ -1,16 +1,22 @@
-# Hi!! 👋
+<div align="center">
+   <h1> Hi!! I'm Gustavo Alves 👋</h1>
    
  <!-- Passionate about software development, majoring in Systems Analysis and Development, I am always open to new challenges. I find it easy to work in a team and develop good interpersonal relationships, I work with planning, focus and collaborative sense.
 
 Proficiency with <b> C#, .NET, ASPNET Core MVC, SQL, HTML, CSS and JavaScript </b> always willing to study new technologies and increase my field of knowledge.-->
 
-- 🌱 I’m currently learning the best practices and their benfits
-- 😄 I’m interested in programming
-
+   <p>- 🌱 I’m currently learning the best practices and their benfits</p>
+   <p>- 😄 I’m interested in programming</p>
+<div>   
+   <a href = "mailto:gugaalves92@hotmail.com"><img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
+   <a href = "https://www.linkedin.com/in/gustavo-oliveira-310bb41b7/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
+<br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GuruDevOp7884&show_icons=true&theme=radical)
 
-##
+</div>
+
 
 <div align="center" style="display: flex; justify-content: center; align-items: center; flex-direction: row">  
    <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -21,21 +27,7 @@ Proficiency with <b> C#, .NET, ASPNET Core MVC, SQL, HTML, CSS and JavaScript </
    <img align="center" alt="Dotnet" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/dotnetcore/dotnetcore-original.svg" />
   <!-- <img align="center" alt="Flutter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />-->
 </div>
-  
-  
-  ##
-
-<!--Contact badges: https://dev.to/envoy_/150-badges-for-github-pnk-->
-
-## Ways to Reach me 📫
-<div>
-   
- <a href = "mailto:gugaalves92@hotmail.com"><img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
-  <a href = "https://www.linkedin.com/in/gustavo-oliveira-310bb41b7/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
- <abbr title=""></abbr>
-  
-  
+<!--Contact badges: https://dev.to/envoy_/150-badges-for-github-pnk-->   
 <div>
   <br/>
   <p align="center">
