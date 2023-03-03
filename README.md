@@ -1,10 +1,8 @@
-# Hello, It's a pleasure to have you here!! 👋
-
-# About me
+# Hi!! 👋
    
-  Passionate about software development, majoring in Systems Analysis and Development, I am always open to new challenges. I find it easy to work in a team and develop good interpersonal relationships, I work with planning, focus and collaborative sense.
+ <!-- Passionate about software development, majoring in Systems Analysis and Development, I am always open to new challenges. I find it easy to work in a team and develop good interpersonal relationships, I work with planning, focus and collaborative sense.
 
-Proficiency with <b> C#, .NET, ASPNET Core MVC, SQL, HTML, CSS and JavaScript </b> always willing to study new technologies and increase my field of knowledge.
+Proficiency with <b> C#, .NET, ASPNET Core MVC, SQL, HTML, CSS and JavaScript </b> always willing to study new technologies and increase my field of knowledge.-->
 
 - 🌱 I’m currently learning the best practices and their benfits
 - 😄 I’m interested in programming
