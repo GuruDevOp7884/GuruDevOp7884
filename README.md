@@ -1,37 +1,38 @@
-<div align="center">
-   <h1> Hi!! I'm Gustavo Alves 👋</h1>
-   
- <!-- Passionate about software development, majoring in Systems Analysis and Development, I am always open to new challenges. I find it easy to work in a team and develop good interpersonal relationships, I work with planning, focus and collaborative sense.
+ ## Olá! Eu sou o Gustavo Alves 👋
 
-Proficiency with <b> C#, .NET, ASPNET Core MVC, SQL, HTML, CSS and JavaScript </b> always willing to study new technologies and increase my field of knowledge.-->
+- Apaixonado por desenvolvimento de software, graduando em Análise e Desenvolvimento de Sistemas, estou sempre aberto a novos desafios. Tenho facilidade para trabalhar em equipe e desenvolver boas relações interpessoais, trabalho com planejamento, foco e senso colaborativo.
 
-   <p>- 🌱 I’m currently learning the best practices and their benfits</p>
-   <p>- 😄 I’m interested in programming</p>
+- 🌱 Sempre disposto a aprender novas tecnologias.
+- 💼 Atuando como estagiário em desenvolvimento web.
+
 <div>   
    <a href = "mailto:gugaalves92@hotmail.com"><img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
    <a href = "https://www.linkedin.com/in/gustavo-oliveira-310bb41b7/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
-<br>
+<br/>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GuruDevOp7884&show_icons=true&theme=radical)
+![Gustavo's GitHub stats](https://github-readme-stats.vercel.app/api?username=GuruDevOp7884&show_icons=true&theme=radical)
 
-</div>
+## Tecnologias que eu uso no meu dia
+<div>      
+   <img align="center" alt="Csharp" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+   <img align="center" alt="Dotnet" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" />
+   <img align="center" alt="Rafa-Js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">  
+   <img align="center" alt="Rafa-HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+   <img align="center" alt="Rafa-CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+   <img align="center" alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
+</div><br/>
+<div> 
+   <img align="center" alt="Rafa-VS" src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white">
+   <img align="center" alt="Rafa-Sql" src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white">
+   <img align="center" alt="Rafa-Git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
+</div><br/>
 
+![Gustavo's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=GuruDevOp7884&theme=radical)
 
-<div align="center" style="display: flex; justify-content: center; align-items: center; flex-direction: row">  
-   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-   <img align="center" alt="Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
-   <img align="center" alt="Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
-   <img align="center" alt="Dotnet" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/dotnetcore/dotnetcore-original.svg" />
-  <!-- <img align="center" alt="Flutter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />-->
-</div>
-<!--Contact badges: https://dev.to/envoy_/150-badges-for-github-pnk-->   
-<div>
-  <br/>
-  <p align="center">
-    Number of visits: <br> <img src="https://profile-counter.glitch.me/GuruDevOp7884/count.svg" alt="Number of visits">
+<div><br/>
+  <p>
+      Número de visitas: <br> <img src="https://profile-counter.glitch.me/GuruDevOp7884/count.svg" alt="Número de visitas">
   </p>
 </div>
 
