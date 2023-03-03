@@ -6,9 +6,8 @@
 
 Proficiency with <b> C#, .NET, ASPNET Core MVC, SQL, HTML, CSS and JavaScript </b> always willing to study new technologies and increase my field of knowledge.
 
-- 🔭 I’m currently working as a intern on web development
-- 🌱 Always learning something new
-- 😄 I love programing
+- 🌱 I’m currently learning the best practices and their benfits
+- 😄 I’m interested in programming
 
 
 
